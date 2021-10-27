@@ -99,7 +99,7 @@ div.photos {
 }
 
 .photo img:hover {
-    border: rgb(97, 96, 96) 2px solid;
+    border: rgb(82, 81, 81) 2px solid;
     /* box-shadow: 0 0 0 2px grey; */
     opacity: .7;
 }
