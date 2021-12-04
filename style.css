@@ -65,7 +65,7 @@ div.description {
 
 div.description p {
   position: absolute;
-  top: 6vh;
+  top: 5vh;
 }
 
 div.description p:nth-of-type(1) {
